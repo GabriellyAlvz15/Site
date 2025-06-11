@@ -7,9 +7,9 @@
 }
 
 body {
-  background-color:#ffffff ;
+  background-color: #ffffff;;
   font: Roboto, Arial, sans-serif;
-  color: #333;
+  color: #06203a;
   padding: 20px;
   text-align: center;
   font-family: "Roboto", sans-serif;
@@ -23,7 +23,7 @@ h1 {
 h3 {
   margin: 20px 0;
   font-size: 20px;
-  color:#b2b2b2;
+  color:#b2b2b2
 }
 
 .produto {
@@ -42,21 +42,21 @@ h3 {
 }
 
 .preço {
-  color:#febe01 ;
+  color:#40dbf6 ;
   font-weight: bold;
   font:Roboto,Arial,Sans-serif;
 }
 
 .destaque {
-  color:#febe01;
+  color: #b5dbff;
 }
 
 .botao {
   display: inline-block;
   margin-top: 10px;
   padding: 10px;
-  background: #febe01;
-  color: #000;
+  background: #7dbeff;
+  color: #134964;
   text-decoration: none;
   border-radius: 4px;
   font-weight: bold;
